@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 Welcome to my little profile 
 
 🌱 I’m currently learning Java Script 
 
-and i like backend development 
+and i like backend development ✨
 
 
 <!--
