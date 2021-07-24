@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my little profile 
+
+🌱 I’m currently learning Java Script 
+
+and i like backend development 
+
+
 <!--
 **SrSalchicha/SrSalchicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
