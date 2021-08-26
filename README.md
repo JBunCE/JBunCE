@@ -6,6 +6,8 @@ Welcome to my little profile
 
 and i like backend development ✨
 
+I speak a little of english and i speak spanish a full
+
 
 <!--
 **SrSalchicha/SrSalchicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
