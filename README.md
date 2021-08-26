@@ -6,7 +6,7 @@
 
 and i like backend development ✨
 
-I speak a little of english and i speak spanish a full
+### 🔭 I’m currently working on a desktop aplication to facilite the conection a server with SSH
 
 
 <!--
