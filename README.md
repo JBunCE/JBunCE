@@ -4,9 +4,8 @@
 
 🌱 I’m currently learning Java Script 
 
-and i like backend development ✨
-
 ### 🔭 I’m currently working on a desktop aplication to facilite the conection a server with SSH
+Check out here: https://github.com/Mane-jaker/Ribbon-Server
 
 
 <!--
