@@ -2,7 +2,7 @@
 
 ### Welcome to my little profile 
 
-🌱 I’m currently learning Java Script and English xd
+🌱 I’m currently learning Java Script and studying the university
 
 ### 🔭 I'm currently working on a desktop application for connect to servers with SSH
 Check out here: https://github.com/Mane-jaker/Ribbon-Server
