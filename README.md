@@ -1,6 +1,6 @@
-### Hello there 👋
+### Hello there
 
-### Welcome to my little profile 
+### Welcome to my little profile xd
 
 🌱 I’m currently learning Java Script and studying the university
 
