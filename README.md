@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently working on a desktop application for connect to servers with SSH
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mane-jaker&show_owner=Mane-jaker&repo=Ribbon-server&theme=aura_dark)](https://github.com/Mane-jaker/Ribbon-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mane-jaker&show_owner=Mane-jaker&repo=Ribbon-server&theme=great-gatsby)](https://github.com/Mane-jaker/Ribbon-Server)
 
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-Automation-SRC&theme=aura_dark)](https://github.com/SrSalchicha/Event-Automation-SRC)
