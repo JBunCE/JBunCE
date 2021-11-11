@@ -1,6 +1,5 @@
 ### Hello there
-### Welcome to my little profile ✨✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+### Welcome to my little profile ✨✨[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently working on a desktop application for connect to servers with SSH
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mane-jaker&show_owner=Mane-jaker&repo=Ribbon-server&theme=great-gatsby)](https://github.com/Mane-jaker/Ribbon-Server)
