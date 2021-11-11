@@ -2,7 +2,8 @@
 
 ### Welcome to my little profile xd
 
-🌱 I’m currently learning Java Script and studying the university
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔭 I'm currently working on a desktop application for connect to servers with SSH
 Check out here: https://github.com/Mane-jaker/Ribbon-Server
@@ -22,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha)](https://github.com/anuraghazra/github-readme-stats)
