@@ -1,6 +1,5 @@
 ### Hello there
 ### Welcome to my little profile ✨✨
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently working on a desktop application for connect to servers with SSH
