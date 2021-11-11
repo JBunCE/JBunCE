@@ -1,4 +1,4 @@
-<b backgroundColor="red">Hello there welcome to my little profile ( ಠ ᴗ ಠ )</b>
+<b background ="red">Hello there welcome to my little profile ( ಠ ᴗ ಠ )</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/SrSalchicha)
 
