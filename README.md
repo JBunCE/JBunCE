@@ -2,7 +2,6 @@
 ### Welcome to my little profile xd
 
 ### 🔭 I'm currently working on a desktop application for connect to servers with SSH
-Check out here: https://github.com/Mane-jaker/Ribbon-Server
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mane-jaker&repo=Ribbon-server)](https://github.com/anuraghazra/github-readme-stats)
 
 
