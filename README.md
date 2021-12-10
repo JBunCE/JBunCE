@@ -2,9 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/SrSalchicha)
 
-### I'm currently working on a desktop application for connect to servers with SSH ( ಠ  ͟ʖ ಠ )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mane-jaker&show_owner=Mane-jaker&repo=Ribbon-server&theme=great-gatsby)](https://github.com/Mane-jaker/Ribbon-Server)
-
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-Automation-SRC&theme=great-gatsby)](https://github.com/SrSalchicha/Event-Automation-SRC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-blake-download&theme=great-gatsby)](https://github.com/SrSalchicha/Cat-blake-download)
