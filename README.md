@@ -5,7 +5,7 @@
 I practice with:
 ### <a href="https://github.com/BlackRubik">Cesar Gomez<a> <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Calculator-M &theme=great-gatsby)](https://github.com/SrSalchicha/Calculator-M)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Calculator-M&theme=great-gatsby)](https://github.com/SrSalchicha/Calculator-M)
 
 
 ### Repositories
