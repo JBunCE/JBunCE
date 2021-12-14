@@ -3,7 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/SrSalchicha)
 
 I practice with:
-<a href="https://github.com/BlackRubik">Cesar Gomez<a>
+### <a href="https://github.com/BlackRubik">Cesar Gomez<a>
+  <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-Automation-SRC&theme=great-gatsby)](https://github.com/SrSalchicha/Calculator-M)
 
 
