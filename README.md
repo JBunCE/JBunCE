@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Calculator-M&theme=great-gatsby)](https://github.com/SrSalchicha/Calculator-M)
 
 
-### Repositories
+### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-Automation-SRC&theme=great-gatsby)](https://github.com/SrSalchicha/Event-Automation-SRC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-blake-download&theme=great-gatsby)](https://github.com/SrSalchicha/Cat-blake-download)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-Blake-Windows-assistant&theme=great-gatsby)](https://github.com/SrSalchicha/Cat-Blake-Windows-assistant)
