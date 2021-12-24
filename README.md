@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=aura&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=aura)](https://github.com/SrSalchicha)
 
-<h1>I practice with: <a href="https://github.com/BlackRubik">Cesar Gomez<a> <h1> <br>
+<h1>Active projects with: <a href="https://github.com/BlackRubik">Cesar Gomez<a> <h1> <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Calculator-M&theme=great-gatsby)](https://github.com/SrSalchicha/Calculator-M)
 
