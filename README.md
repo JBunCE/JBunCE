@@ -8,7 +8,7 @@
 
 
 ### My Repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-A&theme=radical)](https://github.com/SrSalchicha/Event-A)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-blake-download&theme=radical)](https://github.com/SrSalchicha/Cat-blake-download)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-Blake-Windows-assistant&theme=radical)](https://github.com/SrSalchicha/Cat-Blake-Windows-assistant)
 
