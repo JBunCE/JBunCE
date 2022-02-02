@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-blake-download&theme=radical)](https://github.com/SrSalchicha/Cat-blake-download)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Cat-Blake-Windows-assistant&theme=radical)](https://github.com/SrSalchicha/Cat-Blake-Windows-assistant)
   <br>
-<img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png"  height="450" width="350" />
+<img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png" align="left" height="450" width="350" />
 
 
 
