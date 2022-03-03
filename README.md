@@ -2,10 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=radical)](https://github.com/SrSalchicha)
 
-<h2>Active projects with: <a href="https://github.com/BlackRubik">Cesar Gomez ( ಠ ᴗ ಠ )<a> <h2> <br>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Calculator-M&theme=radical)](https://github.com/SrSalchicha/Calculator-M)
-
 
 ### My Repositories
  
