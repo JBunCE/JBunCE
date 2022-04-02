@@ -3,12 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=radical)](https://github.com/SrSalchicha)
 
 
-### My Repositories
+### My active repositories
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Event-A&theme=radical)](https://github.com/SrSalchicha/Event-A)
   <img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png" align="left" height="430" width="350"/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=radical)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=radical)](https://github.com/SrSalchicha/Ejemplos-JAVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=CPP_practice&theme=radical)](https://github.com/SrSalchicha/CPP_practice)
 
 
 
