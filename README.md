@@ -3,7 +3,7 @@
 <h2>I'm student and i like code</h2>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=radical)](https://github.com/SrSalchicha)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=radical)](https://github.com/SrSalchicha) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
 
 
 ### My active repositories
