@@ -12,7 +12,7 @@
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=radical)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=radical)](https://github.com/SrSalchicha/Ejemplos-JAVA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=CPP_practice&theme=radical)](https://github.com/SrSalchicha/CPP_practice)
+[![Readme Card](https://github.com/SrSalchicha/Arbol-Binario-Generico&theme=radical)](https://github.com/SrSalchicha/Arbol-Binario-Generico)
 
 
 
