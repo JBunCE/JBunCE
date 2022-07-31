@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=radical)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=radical)](https://github.com/SrSalchicha/Ejemplos-JAVA)
 
-A little project with JS/API-REST and some of Electron
+### A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=radical)](https://github.com/SrSalchicha/Comanayer-State)
 
 <!-- My apps for W11 on C#: CommingSoon -->
