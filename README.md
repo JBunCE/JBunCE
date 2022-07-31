@@ -2,13 +2,12 @@
 
 <h2>I'm student and i like code</h2>
 
-
-![image](https://user-images.githubusercontent.com/62081821/182004269-33c64f97-fbf5-4b71-a3fb-f696b562c5b1.png)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
 
 
 ### My active repositories
 
-<img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png" align="left" height="430" width="350"/>
+<img src="[https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png](https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png)" align="left" height="430" width="350"/>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=radical)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=radical)](https://github.com/SrSalchicha/Ejemplos-JAVA)
