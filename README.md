@@ -3,15 +3,16 @@
 <h2>I'm student and i like code</h2>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srsalchicha&theme=radical)](https://github.com/SrSalchicha) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
+<img src="https://pixabay.com/es/vectors/javascript-js-logo-c%C3%B3digo-fuente-736400/" align="left" height="100" width="100"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
 
 
 ### My active repositories
 
- <img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png" align="left" height="430" width="350"/>
+<img src="https://user-images.githubusercontent.com/62081821/152078965-af49c573-830f-40f9-9463-06de9af97119.png" align="left" height="430" width="350"/>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=radical)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=radical)](https://github.com/SrSalchicha/Ejemplos-JAVA)
+
 A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=radical)](https://github.com/SrSalchicha/Comanayer-State)
 
