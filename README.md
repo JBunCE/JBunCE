@@ -3,7 +3,7 @@
 <h2>I'm student and i like code</h2>
 
 
-<img src="https://pixabay.com/es/vectors/javascript-js-logo-c%C3%B3digo-fuente-736400/" align="left" height="100" width="100"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
+![image](https://user-images.githubusercontent.com/62081821/182004269-33c64f97-fbf5-4b71-a3fb-f696b562c5b1.png)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
 
 
 ### My active repositories
