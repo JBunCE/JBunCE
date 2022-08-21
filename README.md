@@ -16,6 +16,8 @@
 ### A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=radical)](https://github.com/SrSalchicha/Comanayer-State)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srsalchicha)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- My apps for W11 on C#: CommingSoon -->
 
 <!--
