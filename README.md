@@ -3,8 +3,7 @@
 <h2>I'm student and i like code</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
-
-![2463224dd5c0fa8a6e77df07d23d90ed](https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif)
+<img src="[https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png](https://userimages.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif)" align="left" height="50" width="50"/>
 
 
 ### My active repositories
