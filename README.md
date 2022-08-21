@@ -4,7 +4,7 @@
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=radical&show_icons=true)](https://github.com/SrSalchicha)
- <img src="https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif" align="right" height="250" width="250"/> 
+ <img src="https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif" align="right" height="190" width="190"/> 
 
 ### My active repositories 
 
