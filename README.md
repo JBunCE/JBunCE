@@ -9,8 +9,9 @@
 ### uwu?
 
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="450" width="350"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=springEasy&theme=blue-green)](https://github.com/SrSalchicha/springEasy)
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=tarea-universidad&theme=blue-green)](https://github.com/SrSalchicha/tarea-universidad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Ejemplos-JAVA&theme=blue-green)](https://github.com/SrSalchicha/Ejemplos-JAVA)
 
  ### A little project with JS/API-REST and some of Electron
