@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=blue-green&show_icons=true)](https://github.com/SrSalchicha)
  <img src="https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif" align="right" height="190" width="190"/> 
 
-### uwu?
+### Repos!
 
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="450" width="350"/>
 
