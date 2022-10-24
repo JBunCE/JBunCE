@@ -1,6 +1,6 @@
 <h1 style="font-family:sans-serif">Hello there, welcome to my little profile ( ಠ ᴗ ಠ )</h1>
 
-<h2>I'm student and i like code </h2>
+<h2>I'm student | backend ♥ </h2>
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsalchicha&theme=blue-green&show_icons=true)](https://github.com/SrSalchicha)
