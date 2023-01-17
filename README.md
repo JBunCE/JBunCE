@@ -14,7 +14,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Carrot-State-BackEnd&theme=blue-green)](https://github.com/SrSalchicha/Carrot-State-BackEnd)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=java_but_is_functional&theme=transparent)](https://github.com/SrSalchicha/java_but_is_functional.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=java_but_is_functional&theme=blue-green)](https://github.com/SrSalchicha/java_but_is_functional.git)
+
 <!--
  ### A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=blue-green)](https://github.com/SrSalchicha/Comanayer-State)
