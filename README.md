@@ -12,7 +12,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=springEasy&theme=blue-green)](https://github.com/SrSalchicha/springEasy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Carrot-State-BackEnd&theme=blue-green)](https://github.com/SrSalchicha/Carrot-State-BackEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Project-E&theme=blue-green)](https://github.com/SrSalchicha/Project-E)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=java_but_is_functional&theme=blue-green)](https://github.com/SrSalchicha/java_but_is_functional.git)
 
