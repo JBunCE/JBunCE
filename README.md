@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Project-E&theme=blue-green)](https://github.com/SrSalchicha/JBunCE)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=java_but_is_functional&theme=JBunCE)](https://github.com/SrSalchicha/java_but_is_functional.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=java_but_is_functional&theme=blue-green)](https://github.com/JBunCE/java_but_is_functional.git)
 
 <!--
  ### A little project with JS/API-REST and some of Electron
