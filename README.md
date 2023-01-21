@@ -12,7 +12,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=springEasy&theme=blue-green)](https://github.com/SrSalchicha/JBunCE)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Project-E&theme=blue-green)](https://github.com/SrSalchicha/JBunCE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Project-E&theme=blue-green)](https://github.com/JBunCE/Project-E)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=java_but_is_functional&theme=blue-green)](https://github.com/JBunCE/java_but_is_functional.git)
 
