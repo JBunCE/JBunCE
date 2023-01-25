@@ -2,9 +2,10 @@
 
 <h2>I'm student | backend ♥ </h2>
  
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&show_icons=true)](https://github.com/JBunCE)
  <img src="https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif" align="right" height="190" width="190"/> 
+
 
 ### Repos!
 
@@ -16,7 +17,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=java_but_is_functional&theme=blue-green)](https://github.com/JBunCE/java_but_is_functional.git)
 
-<!--
+
  ### A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=blue-green)](https://github.com/SrSalchicha/Comanayer-State)
  My apps for W11 on C#: CommingSoon -->
