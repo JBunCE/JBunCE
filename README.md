@@ -4,7 +4,7 @@
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&show_icons=true)](https://github.com/JBunCE)
- <img src="https://user-images.githubusercontent.com/62081821/185776350-274d9b35-7efe-4cd1-a614-fbb69357e5d3.gif" align="right" height="190" width="190"/> 
+ <img src="https://user-images.githubusercontent.com/62081821/215634596-2c7c1ebe-7823-404d-b4c0-8e483291c32b.jpg" align="right" height="190" width="190"/> 
 
 
 ### Repos!
