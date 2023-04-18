@@ -8,6 +8,7 @@
  
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="450" width="350"/>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Cone-Bot&theme=blue-green)](https://github.com/JBunCE/Cone-Bot)
 <!--
  ### A little project with JS/API-REST and some of Electron
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=blue-green)](https://github.com/SrSalchicha/Comanayer-State)
