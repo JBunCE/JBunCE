@@ -5,17 +5,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&show_icons=true)](https://github.com/JBunCE)
  <img src="https://user-images.githubusercontent.com/62081821/215634596-2c7c1ebe-7823-404d-b4c0-8e483291c32b.jpg" align="right" height="190" width="190"/> 
-
-
-### Repos!
-
+ 
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="450" width="350"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Cone-Bot&theme=blue-green)](https://github.com/JBunCE/Cone-Bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Project-E&theme=blue-green)](https://github.com/JBunCE/Project-E)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=chat-TCP&theme=blue-green)](https://github.com/JBunCE/Chat-TCP)
 
 <!--
  ### A little project with JS/API-REST and some of Electron
