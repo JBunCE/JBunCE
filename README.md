@@ -13,7 +13,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Cone-Bot&theme=blue-green)](https://github.com/JBunCE/Cone-Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Cone-Bot&theme=blue-green)](https://github.com/JBunCE/statistics-program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=statistics-program&theme=blue-green)](https://github.com/JBunCE/statistics-program)
 
 <!--
  ### A little project with JS/API-REST and some of Electron
