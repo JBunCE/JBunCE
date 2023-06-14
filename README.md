@@ -4,7 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&show_icons=true)](https://github.com/JBunCE)
 <img src="https://user-images.githubusercontent.com/62081821/215634596-2c7c1ebe-7823-404d-b4c0-8e483291c32b.jpg" height="90" width="90"/> 
-<img src="https://github.com/JBunCE/JBunCE/assets/62081821/e542717b-ff9d-49f4-9527-f81642cf6ba2"  height="80" width="75"/> 
+<img src="https://github.com/JBunCE/JBunCE/assets/62081821/e542717b-ff9d-49f4-9527-f81642cf6ba2"  height="80" width="70"/>
+<img src="https://github.com/JBunCE/JBunCE/assets/62081821/cef246a6-9863-4906-a9ce-ab23ab8f96e7"  height="75" width="70"/>
+
 
 
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="350" width="250"/>
