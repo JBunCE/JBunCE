@@ -6,9 +6,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&show_icons=true)](https://github.com/JBunCE)
  <img src="https://user-images.githubusercontent.com/62081821/215634596-2c7c1ebe-7823-404d-b4c0-8e483291c32b.jpg" align="right" height="190" width="190"/> 
  
+![Python-logo](https://github.com/JBunCE/JBunCE/assets/62081821/e542717b-ff9d-49f4-9527-f81642cf6ba2)
+
+ 
 <img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="350" width="250"/>
 
-<img src="https://user-images.githubusercontent.com/62081821/09c009fb-f8ec-49c2-8b0d-307eed9d2675.png" align="left" height="350" width="250"/>
+
 
 ### Repos 🐇
 
