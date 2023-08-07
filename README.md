@@ -13,7 +13,7 @@
 
 ### Repos 🐇
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=Cone-Bot&theme=blue-green)](https://github.com/JBunCE/Cone-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=baap-CLI&theme=blue-green)](https://github.com/JBunCE/baap-CLI)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=statistics-program&theme=blue-green)](https://github.com/JBunCE/statistics-program)
 
