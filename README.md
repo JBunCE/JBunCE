@@ -4,9 +4,9 @@
 <h2>I'm student | backend ♥ </h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBunCE&theme=blue-green&rank_icon=github)](https://github.com/JBunCE)
-<img src="https://user-images.githubusercontent.com/62081821/215634596-2c7c1ebe-7823-404d-b4c0-8e483291c32b.jpg" height="90" width="90"/> 
+<img src="https://github.com/JBunCE/JBunCE/assets/62081821/4ed1450e-e2cf-4fec-982f-758ecb8faa59" height="140" width="100"/> 
+<img src="https://github.com/JBunCE/JBunCE/assets/62081821/e5790da9-aae4-4302-bf61-5ab137c9ca88"  height="75" width="65"/>
 <img src="https://github.com/JBunCE/JBunCE/assets/62081821/cef246a6-9863-4906-a9ce-ab23ab8f96e7"  height="75" width="70"/>
-<img src="https://github.com/JBunCE/JBunCE/assets/62081821/e542717b-ff9d-49f4-9527-f81642cf6ba2"  height="80" width="70"/>
 
 
 
