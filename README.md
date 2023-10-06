@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=baap-CLI&theme=blue-green)](https://github.com/JBunCE/baap-CLI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=spring-boot-users-crud&theme=blue-green)](https://github.com/JBunCE/spring-boot-users-crud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBunCE&repo=go-game&theme=blue-green)](https://github.com/JBunCE/go-game)
 
 <!--
  ### A little project with JS/API-REST and some of Electron
