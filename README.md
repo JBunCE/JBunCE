@@ -1,13 +1,12 @@
 > [!NOTE]\
 > Hellou , welcome to my little profile ( ಠ ᴗ ಠ )
 > 
-✨ _Celeste-dev_ ✨
 <h2> backend ♥ </h2>
 <img align="left" height="360" src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png"  />
 
 ###
 
-<p align="left">My name is Jorge, i'm a backend developer that love's the software development. <br><br>I make Java springboot applications and work on web3 smart contracts development with the GEAR protocol in Rust on "VARA Network."<br><br>I work on DevOps too automating tasks with bash scripting, integrating cloud services to backend applications and configuring continuos deployment.</p>
+<p align="left">Greetings!! Welcome to my little profile.<br><br>My name is Jorge, i'm a backend developer that love's the software development. <br><br>I make Java springboot applications and work on web3 smart contracts development with the GEAR protocol in Rust on "VARA Network."<br><br>I work on DevOps too automating tasks with bash scripting, integrating cloud services to backend applications and configuring continuos deployment.</p>
 
 ###
 
@@ -24,6 +23,12 @@
   </a>
 </div>
 
+<br clear="both">
+
+###
+
+<p align="left">✨ ✨ Allways is time to work!! ✨  ✨</p>
+
 ###
 
 <br clear="both">
@@ -32,7 +37,7 @@
 
 ###
 
-<h2 align="left">Some of my skills!</h2>
+<h4 align="left">Some of my skills!</h4>
 
 ###
 
