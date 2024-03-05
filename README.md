@@ -88,7 +88,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="600" src="https://github.com/JBunCE/JBunCE/assets/62081821/bde933b7-7579-4d2f-a67d-59319ddb5e08"  />
+  <img height="500" src="https://github.com/JBunCE/JBunCE/assets/62081821/bde933b7-7579-4d2f-a67d-59319ddb5e08"  />
 </div>
 
 ###
