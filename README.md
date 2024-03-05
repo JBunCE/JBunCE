@@ -2,7 +2,6 @@
 > Hellou , welcome to my little profile ( ಠ ᴗ ಠ )
 > 
 <h2> backend ♥ </h2>
-
 <img align="left" height="360" src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png"  />
 
 ###
@@ -31,6 +30,8 @@
 <h2 align="left">Some of my skills!</h2>
 
 ###
+
+<br clear="both">
 
 <img align="left" height="190" src="https://media1.tenor.com/images/8aab6d056144aada70700c9182b09329/tenor.gif?itemid=16799196"  />
 
@@ -80,6 +81,14 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="600" src="https://github.com/JBunCE/JBunCE/assets/62081821/bde933b7-7579-4d2f-a67d-59319ddb5e08"  />
 </div>
 
 ###
