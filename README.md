@@ -3,8 +3,7 @@
 > 
 ✨ _Celeste-dev_ ✨
 <h2> backend ♥ </h2>
-
-<img src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png" align="left" height="350" width="275"/>
+<img align="left" height="360" src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png"  />
 
 ###
 
@@ -29,11 +28,13 @@
 
 <br clear="both">
 
-<h2 align="left">Some of my skills!</h2>
+<img align="left" height="190" src="https://media1.tenor.com/images/8aab6d056144aada70700c9182b09329/tenor.gif?itemid=16799196"  />
 
 ###
 
-<br clear="both">
+<h2 align="left">Some of my skills!</h2>
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -73,26 +74,8 @@
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
 ###
-
-<!--
- ### A little project with JS/API-REST and some of Electron
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srsalchicha&repo=Comanayer-State&theme=blue-green)](https://github.com/SrSalchicha/Comanayer-State)
- My apps for W11 on C#: CommingSoon -->
-
-<!--
-**SrSalchicha/SrSalchicha** is a  repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
