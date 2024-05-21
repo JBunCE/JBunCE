@@ -1,5 +1,5 @@
 > [!NOTE]\
-> Hellou , welcome to my little profile ( ಠ ᴗ ಠ ) 🏳️‍⚧️
+>  🏳️‍⚧️ Hellou , welcome to my little profile 🏳️‍⚧️
 > 
 <h2> backend ♥ </h2>
 <img align="left" height="360" src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png"  />
