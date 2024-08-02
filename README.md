@@ -1,94 +1,74 @@
-> [!NOTE]\
->  🏳️‍⚧️ Hellou ♥ ♥ ♥ ♥ 
-> 
-<h2> backend ♥ </h2>
-<img align="left" height="360" src="https://user-images.githubusercontent.com/62081821/182004281-0d4687eb-be94-4118-913b-1ed19c955649.png"  />
+<br clear="both">
+
+# Helou ♥ ♥ ♥ ♥
+<img align="left" height="360" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
+
+<h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
+
+<p align="left">&nbsp ☆ Backend dev at FGJZ <br> &nbsp ☆ Blockchain developer on GuardianDefi a staking protocol on VARA Network<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C# and AWS deployments and DevOps<p>
+
+<div align="left" style="margin-left: 20px;">
+  <p> 
+    &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBunCE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://github.com/user-attachments/assets/3c4804e9-6cc1-4a74-a7e9-b940015b9bf0" height="130" alt="languages graph"  />
+    <img src="https://github.com/user-attachments/assets/9137efa0-85f8-41aa-b65a-a7caa404b795" height="130" alt="languages graph"  />
+  </p>
+</div>
 
 ###
 
-<p align="left">My name is Jorge, i'm a backend developer that love's the software development. <br><br>I make Java springboot applications and work on web3 smart contracts development with the GEAR protocol in Rust on "VARA Network."<br><br>I work on DevOps too automating tasks with bash scripting, integrating cloud services to backend applications and configuring continuos deployment.</p>
+<br clear="both">
+
+<p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆</p>
+
+<img align="left" height="190" src="https://github.com/user-attachments/assets/dc9cf204-dd92-42da-b2ad-c5ea8129afff"  />
 
 ###
 
-<h3 align="left">Social media!</h3>
+<h3 align="left"> ★ I work with:</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jorge-brandon-chandomi-esponda-652948279/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/SrConejoUwU" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Some of my skills!</h2>
-
-###
-
-<br clear="both">
-
-<img align="left" height="190" src="https://media1.tenor.com/images/8aab6d056144aada70700c9182b09329/tenor.gif?itemid=16799196"  />
-
-###
-
-<p align="center">✨ ✨ Allways is time to work!! ✨  ✨</p>
-
-###
-
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
+  <img src="https://cdn.simpleicons.org/webassembly/654FF0" height="40" alt="webassembly logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="500" src="https://github.com/JBunCE/JBunCE/assets/62081821/bde933b7-7579-4d2f-a67d-59319ddb5e08"  />
-</div>
 
 ###
