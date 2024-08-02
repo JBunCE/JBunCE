@@ -1,11 +1,21 @@
 <br clear="both">
 
 # Helou ♥ ♥ ♥ ♥
-<img align="left" height="360" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
+<img align="left" height="300" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
 
 <h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
 
 <p align="left">&nbsp ☆ Backend dev at FGJZ <br> &nbsp ☆ Blockchain developer on GuardianDefi a staking protocol on VARA Network<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C# and AWS deployments and DevOps<p>
+
+<br>
+
+###
+
+<br clear="both">
+
+<br>
+
+<p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★</p>
 
 <div align="left" style="margin-left: 20px;">
   <p> 
@@ -15,11 +25,7 @@
   </p>
 </div>
 
-###
-
-<br clear="both">
-
-<p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆</p>
+<p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★</p>
 
 <img align="left" height="190" src="https://github.com/user-attachments/assets/dc9cf204-dd92-42da-b2ad-c5ea8129afff"  />
 
