@@ -1,31 +1,47 @@
 <br clear="both">
 
-# Helou ♥ ♥ ♥ ♥
+# 🏳️‍⚧️ Helou ♥ ♥ ♥ ♥
 <img align="left" height="300" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
 
 <h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
 
 <p align="left">&nbsp ☆ Backend dev at FGJZ <br> &nbsp ☆ Blockchain developer on GuardianDefi a staking protocol on VARA Network<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C# and AWS deployments and DevOps<p>
 
-<br>
+<h3 align="left">&nbsp ☆ Social media ☆ </h3>
 
-###
+<div align="left">
+  <a href="https://www.linkedin.com/in/jorge-brandon-chandomi-esponda-652948279/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/SrConejoUwU" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 <br clear="both">
 
-<br>
-
 <p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★</p>
 
-<div align="left" style="margin-left: 20px;">
+<div align="left">
   <p> 
     &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBunCE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://github.com/user-attachments/assets/3c4804e9-6cc1-4a74-a7e9-b940015b9bf0" height="130" alt="languages graph"  />
-    <img src="https://github.com/user-attachments/assets/9137efa0-85f8-41aa-b65a-a7caa404b795" height="130" alt="languages graph"  />
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+      <img src="https://github.com/user-attachments/assets/9137efa0-85f8-41aa-b65a-a7caa404b795" height="130" alt="badge"  />
+    </a>
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+      <img src="https://github.com/user-attachments/assets/3c4804e9-6cc1-4a74-a7e9-b940015b9bf0" height="130" alt="badge"  />
+    </a>
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+      <img src="https://github.com/user-attachments/assets/255c2253-e0a1-4a9e-96a3-92a6e55e7c3b" height="130" alt="badge"  />
+    </a>
   </p>
 </div>
 
 <p align="left">☆☆★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★☆☆☆☆☆☆☆★☆☆★☆☆☆☆☆☆☆★☆☆☆★★</p>
+
+###
+
+<br clear="both">
 
 <img align="left" height="190" src="https://github.com/user-attachments/assets/dc9cf204-dd92-42da-b2ad-c5ea8129afff"  />
 
