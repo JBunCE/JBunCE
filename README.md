@@ -27,13 +27,13 @@
 <div align="left">
   <p> 
     &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBunCE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda.a099c17c" target="_blank">
       <img src="https://github.com/user-attachments/assets/9137efa0-85f8-41aa-b65a-a7caa404b795" height="130" alt="badge"  />
     </a>
-    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda.a099c17c" target="_blank">
       <img src="https://github.com/user-attachments/assets/3c4804e9-6cc1-4a74-a7e9-b940015b9bf0" height="130" alt="badge"  />
     </a>
-    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda" target="_blank">
+    <a href="https://www.credly.com/users/jorge-brandon-chandomi-esponda.a099c17c" target="_blank">
       <img src="https://github.com/user-attachments/assets/255c2253-e0a1-4a9e-96a3-92a6e55e7c3b" height="130" alt="badge"  />
     </a>
   </p>
