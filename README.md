@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/SrConejoUwU" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://github.com/user-attachments/assets/01c5fb0f-98ff-4649-8e36-1f2f79ef8773" height="43" alt="twitter logo"/>
   </a>
 </div>
 
