@@ -1,6 +1,6 @@
 <br clear="both">
 
-# 🏳️‍⚧️ Helou ♥ ♥ ♥ ♥
+# Helou ♥ ♥ ♥ ♥
 <img align="left" height="300" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
 
 <h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
