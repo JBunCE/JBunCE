@@ -5,7 +5,7 @@
 
 <h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
 
-<p align="left">&nbsp ☆ Backend dev at FGJZ <br> &nbsp ☆ IA Agents developer at CB_Labs<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C#, TS/JS  |  AWS & GCP DevOps<p>
+<p align="left">&nbsp ☆ Backend dev and IA Agents developer at Life Agent<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C#, TS/JS  |  AWS & GCP DevOps<p>
 
 <h3 align="left">&nbsp ☆ Social media ☆ </h3>
 
