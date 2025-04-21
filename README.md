@@ -1,13 +1,13 @@
 <br clear="both">
 
 # Helou ♥ ♥ ♥ ♥
-<img align="left" height="300" src="https://github.com/user-attachments/assets/9ae93afe-8f2b-4c50-8fa1-ed5a4395944f"  />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/07af57af-dd0d-4a19-b8bd-6d1a91645ab2"  />
 
-<h3 align="left">&nbsp ☆ Hi, my name is Jorge ☆ <br><br> </h3>
+<h3 align="left">☆ Hi, my name is Jorge ☆ <br><br> </h3>
 
-<p align="left">&nbsp ☆ Backend dev and IA Agents developer at Life Agent<br><br> &nbsp Also, i can make mobile solutions with KMP and Flutter <br> &nbsp Backend solutions with Python, Rust, Java, C#, TS/JS  |  AWS & GCP DevOps<p>
+<p align="left">☆ Backend dev and IA Agents developer at Life Agent<br><br> Also, i can make mobile solutions with KMP and Flutter <br> Backend solutions with Python, Rust, Java, C#, TS/JS | AWS & GCP DevOps<p>
 
-<h3 align="left">&nbsp ☆ Social media ☆ </h3>
+<h3 align="left">☆ Social media ☆ </h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jorge-brandon-chandomi-esponda-652948279/" target="_blank">
